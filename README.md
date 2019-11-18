@@ -11,3 +11,5 @@
 ## Credit
 
 Modified from Scotch.io's auth tutorial
+
+<!--test-->
